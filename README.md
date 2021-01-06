@@ -5,7 +5,7 @@ Frenzied Clicker, Is a clicker game, made to make your life a living hell.
 
 # Why?
 
-I don't know
+I don't know.
 
 # Is it any good?
 
