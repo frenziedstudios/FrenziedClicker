@@ -2,6 +2,28 @@ h1 {
     font-family: sans-serif;
 }
 
-button1 {
-    background-color: #121212;
-} 
+.clicker {
+    width: 40%;
+margin-left: 30%;
+margin-right: 30%;
+}
+.center {
+    margin: 0;
+    position: absolute;
+    top: 25%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+  }
+
+  body {
+    background: #44A08D;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #093637, #44A08D);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #093637, #44A08D); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+  }
+
+  h3 {
+      font-family: sans-serif;
+      color: white;
+  }
