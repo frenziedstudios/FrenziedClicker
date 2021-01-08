@@ -2,10 +2,11 @@ h1 {
     font-family: sans-serif;
 }
 
-.clicker {
+clicker {
     width: 40%;
 margin-left: 30%;
 margin-right: 30%;
+color: black;
 }
 .center {
     margin: 0;
@@ -27,3 +28,7 @@ background: linear-gradient(to right, #093637, #44A08D); /* W3C, IE 10+/ Edge, F
       font-family: sans-serif;
       color: white;
   }
+clickme {
+    size: 30px;
+    color: black;
+}
